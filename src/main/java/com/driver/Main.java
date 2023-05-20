@@ -22,4 +22,5 @@ public class Main {
         System.out.println(p.product(2,3, 5));
         System.out.println(p.product(2.5,3.5));
     }
+
 }
